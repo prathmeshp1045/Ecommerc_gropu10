@@ -3,7 +3,7 @@
 ## App Setup (localhost)
 
 ```
-git clone https://github.com/John-Weeks-Dev/ebay-clone.git
+git clone 
 
 cp .env.example .env
 ```
